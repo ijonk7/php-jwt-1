@@ -1,0 +1,11 @@
+{
+    "name": "ijonk/jwt-php-2",
+    "authors": [
+        {
+            "name": "Muhammad Rizal"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.3"
+    }
+}
